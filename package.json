@@ -1,0 +1,22 @@
+{
+  "name": "roam_meeting_importer",
+  "version": "1.0.0",
+  "description": "Imports meetings into Roam Research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmfrey/roam_meeting_importer.git"
+  },
+  "author": "Matt Frey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmfrey/roam_meeting_importer/issues"
+  },
+  "homepage": "https://github.com/davidmfrey/roam_meeting_importer#readme",
+  "dependencies": {
+    "roam-research-private-api": "^0.9.3"
+  }
+}
